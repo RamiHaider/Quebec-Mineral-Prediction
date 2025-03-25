@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment folders
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Large data files
+Images/
+Raw-Data/
+Blogging/
+
+# Model files
+*.pth
+*.pt
+*.joblib
+*.pkl
+*.h5
+
+# Large data files
+modeling/data/preprocessed/grid_features.csv
+modeling/data/preprocessed/rock_features.csv
+modeling/data/output/output_fused.csv
+modeling/data/output/*.csv
+modeling/data/preprocessed/*.csv
+!sample_data/*.csv
+Blogging/
+env/
+images/
+raw-data/
+sample_data/
+modeling/data
+
+# Checkpoint directories
+**/.ipynb_checkpoints/
