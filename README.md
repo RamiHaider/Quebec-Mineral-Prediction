@@ -13,20 +13,9 @@ This repository contains the modeling code and notebooks for a mineral prospecti
 
 ## Data Availability
 
-Due to GitHub file size limitations, the following large data files can be downloaded here from my google drive:
+Taken offline until further notice
 
-## Data Availability
-
-Due to GitHub file size limitations, the following large data files are not included in this repository but are available for download:
-
-- [grid_features.csv](https://drive.google.com/file/d/1y6hQBOGBeAFnbeqS9Y5x_Guj5KUYYz5L/view?usp=sharing) - Preprocessed features for prediction grid
-- [rock_features.csv](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing) - Preprocessed features for rock samples (training data)
-- [output_fused.csv](https://drive.google.com/file/d/19ND0ATOUSzDf3l9Kn1mVsrPvOPqwooPM/view?usp=sharing) - Final fusion model predictions
-
-These files are needed to run the notebooks in this repository.
-
-
-These files are available upon request or via the project website.
+These files are available upon 
 
 ## Project Structure
 
